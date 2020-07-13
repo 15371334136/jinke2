@@ -7,6 +7,8 @@
   text-align:center;
   line-height:normal;
 }
+._形状 {
+}
 ._图片 {
 }
 .placeholder {
@@ -67,7 +69,7 @@
   color:#000000;
   text-align:left;
 }
-._形状 {
+._形状1 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
